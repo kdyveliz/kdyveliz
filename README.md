@@ -1,3 +1,7 @@
+
+![githuibintro](https://github.com/user-attachments/assets/a1efcc4c-fc83-4049-a4a6-022e323eac41)
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdyveliz&layout=compact" alt="Top Langs" />
 </div>
@@ -6,6 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kdyveliz&show_icons=true&&theme=transparent" alt="Anurag's GitHub stats" />
 </div>
 
+<br>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
