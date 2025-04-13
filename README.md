@@ -3,13 +3,11 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdyveliz&layout=compact" alt="Top Langs" />
+  <div style="display: flex; justify-content: center; gap:100px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdyveliz&layout=compact" alt="Top Langs" style="height: 150px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kdyveliz&show_icons=true&theme=transparent" alt="GitHub stats" style="height: 150px;" />
+  </div>
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdyveliz&show_icons=true&&theme=transparent" alt="Anurag's GitHub stats" />
-</div>
-
 <br>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
