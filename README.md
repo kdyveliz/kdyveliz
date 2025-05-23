@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/django-150458.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=database&logoColor=white" />&nbsp
 </div>
 
 
