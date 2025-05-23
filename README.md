@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <div style="display: flex; justify-content: center; gap:100px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdyveliz&layout=compact" alt="Top Langs" style="height: 150px;" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdyveliz&layout=compact" alt="WakaTime Stats" style="height: 150px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=kdyveliz&show_icons=true&theme=transparent" alt="GitHub stats" style="height: 150px;" />
   </div>
 </div>
