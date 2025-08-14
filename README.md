@@ -3,17 +3,9 @@
 <br>
 <br>
 <div align="center">
-   <a href="https://www.figma.com/proto/43cbLfhyxQ6ZwcacBYuYht/%EA%B9%80%EB%8F%84%EC%97%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%A0%9C%EC%B6%9C%EC%9A%A9?node-id=1-2&starting-point-node-id=1%3A2">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  </a>
-  <a href="https://www.notion.so/Portfolio-2004dd0d9de480b89085eb0c240d9e41">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  </a>
   <br>
+<img src="https://topsolved.mayonedev.com/api/boj?handle=kdyveliz&row=10&base_color=gold">
   <br>
-  <div style="display: flex; justify-content: center; gap:100px; flex-wrap: wrap;">
-    <img src="https://streak-stats.demolab.com/?user=kdyveliz&theme=transparent" alt="GitHub Streak" style="height: 150px;" />
-  </div>
 </div>
 </div>
 <br>
