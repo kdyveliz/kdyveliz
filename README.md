@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <br>
-<img src="https://topsolved.mayonedev.com/api/boj?handle=kdyveliz&row=10&base_color=gold">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=kdyveliz&row=10&base_color=silver">
   <br>
 </div>
 </div>
