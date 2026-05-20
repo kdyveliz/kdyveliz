@@ -1,13 +1,7 @@
 
 ![githuibintro](https://github.com/user-attachments/assets/a1efcc4c-fc83-4049-a4a6-022e323eac41)
 <br>
-<br>
-<div align="center">
-  <br>
-<img src="https://topsolved.mayonedev.com/api/boj?handle=kdyveliz&row=10&base_color=silver">
-  <br>
-</div>
-</div>
+
 <br>
 <!--내용 부분-->
 
